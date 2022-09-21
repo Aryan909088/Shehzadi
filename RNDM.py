@@ -4,4 +4,4 @@ os.system('git pull')
 
 ass=platform.architecture()[0]
 
-__import__("Shehzadi").Shehzadi()
+__import__("Shehzadi2").Shehzadi()
